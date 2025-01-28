@@ -1,2 +1,2 @@
 # revit-installers
-The Repo hosts the installers for the Revit Connector for [Vyssual.com](vyssuals.com)
+The Repo hosts the installers for the Revit Connector for [Vyssuasl.com](vyssuals.com)
